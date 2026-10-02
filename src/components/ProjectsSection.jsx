@@ -21,7 +21,7 @@ function ProjectsSection() {
           title="Portfolio in Components"
           description="This portfolio, rebuilt in React with reusable components."
           tech="React · Tailwind CSS"
-          link="https://github.com/francesnicoletolentino/CSIT340-Lab3-Tolentino"
+          link="https://github.com/francesnicoletolentino/CSIT340G6-Lab2-Tolentino"
         />
         <ProjectCard
           year="2025"
